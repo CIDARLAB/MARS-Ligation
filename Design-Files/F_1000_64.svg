@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135.8mm"
+   height="85.80000000000003mm"
+   viewBox="0 0 135800 85800.00000000003"
+   version="1.1"
+   id="svg274"
+   sodipodi:docname="F_1000_64.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     id="namedview276"
+     showgrid="false"
+     inkscape:zoom="1.1183419"
+     inkscape:cx="256.62993"
+     inkscape:cy="187.433"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg274" />
+  <defs
+     id="defs102">
+    <radialGradient
+       cx="32300"
+       cy="20000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="0.9901"
+         stop-color="#3f51b5"
+         id="stop2" />
+      <stop
+         offset="0.9901"
+         stop-color="#1a237e"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       cx="24000"
+       cy="30000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="0.9901"
+         stop-color="#3f51b5"
+         id="stop7" />
+      <stop
+         offset="0.9901"
+         stop-color="#1a237e"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       cx="89800"
+       cy="27000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-3">
+      <stop
+         offset="0.9901"
+         stop-color="#3f51b5"
+         id="stop12" />
+      <stop
+         offset="0.9901"
+         stop-color="#1a237e"
+         id="stop14" />
+    </radialGradient>
+    <radialGradient
+       cx="73900"
+       cy="20200"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-4">
+      <stop
+         offset="0.9901"
+         stop-color="#3f51b5"
+         id="stop17" />
+      <stop
+         offset="0.9901"
+         stop-color="#1a237e"
+         id="stop19" />
+    </radialGradient>
+    <radialGradient
+       cx="61500"
+       cy="20200"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-5">
+      <stop
+         offset="0.9901"
+         stop-color="#3f51b5"
+         id="stop22" />
+      <stop
+         offset="0.9901"
+         stop-color="#1a237e"
+         id="stop24" />
+    </radialGradient>
+    <radialGradient
+       cx="51100"
+       cy="20200"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-6">
+      <stop
+         offset="0.9901"
+         stop-color="#3f51b5"
+         id="stop27" />
+      <stop
+         offset="0.9901"
+         stop-color="#1a237e"
+         id="stop29" />
+    </radialGradient>
+    <radialGradient
+       cx="40700"
+       cy="20200"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-7">
+      <stop
+         offset="0.9901"
+         stop-color="#3f51b5"
+         id="stop32" />
+      <stop
+         offset="0.9901"
+         stop-color="#1a237e"
+         id="stop34" />
+    </radialGradient>
+    <radialGradient
+       cx="32300"
+       cy="20000"
+       r="800"
+       gradientUnits="userSpaceOnUse"
+       id="color-8">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop37" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop39" />
+    </radialGradient>
+    <radialGradient
+       cx="89800"
+       cy="36300"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-9">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop42" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop44" />
+    </radialGradient>
+    <radialGradient
+       cx="24000"
+       cy="30000"
+       r="800"
+       gradientUnits="userSpaceOnUse"
+       id="color-10">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop47" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop49" />
+    </radialGradient>
+    <radialGradient
+       cx="40000"
+       cy="52000"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-11">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop52" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop54" />
+    </radialGradient>
+    <radialGradient
+       cx="60500"
+       cy="39800"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-12">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop57" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop59" />
+    </radialGradient>
+    <radialGradient
+       cx="50100"
+       cy="39800"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-13">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop62" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop64" />
+    </radialGradient>
+    <radialGradient
+       cx="39700"
+       cy="39800"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-14">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop67" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop69" />
+    </radialGradient>
+    <radialGradient
+       cx="31300"
+       cy="39900"
+       r="1010"
+       gradientUnits="userSpaceOnUse"
+       id="color-15">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop72" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop74" />
+    </radialGradient>
+    <radialGradient
+       cx="89800"
+       cy="27000"
+       r="800"
+       gradientUnits="userSpaceOnUse"
+       id="color-16">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop77" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop79" />
+    </radialGradient>
+    <radialGradient
+       cx="73900"
+       cy="20200"
+       r="800"
+       gradientUnits="userSpaceOnUse"
+       id="color-17">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop82" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop84" />
+    </radialGradient>
+    <radialGradient
+       cx="61500"
+       cy="20200"
+       r="800"
+       gradientUnits="userSpaceOnUse"
+       id="color-18">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop87" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop89" />
+    </radialGradient>
+    <radialGradient
+       cx="51100"
+       cy="20200"
+       r="800"
+       gradientUnits="userSpaceOnUse"
+       id="color-19">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop92" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop94" />
+    </radialGradient>
+    <radialGradient
+       cx="40700"
+       cy="20200"
+       r="800"
+       gradientUnits="userSpaceOnUse"
+       id="color-20">
+      <stop
+         offset="1"
+         stop-color="#5c6bc0"
+         id="stop97" />
+      <stop
+         offset="1"
+         stop-color="#1a237e"
+         id="stop99" />
+    </radialGradient>
+  </defs>
+  <path
+     style="font-family:none;mix-blend-mode:normal;fill:#1a237e;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     d="M 232.44141 76.158203 C 231.91956 76.158203 231.49609 76.579719 231.49609 77.101562 L 231.49609 91.060547 C 230.62852 91.367102 229.95574 92.082496 229.70898 92.976562 L 235.17383 92.976562 C 234.9273 92.083337 234.25311 91.369538 233.38672 91.0625 L 233.38672 77.101562 C 233.38672 76.579719 232.96325 76.158203 232.44141 76.158203 z M 153.82617 78.425781 C 153.30433 78.425781 152.88281 78.847297 152.88281 79.369141 L 152.88281 91.060547 C 152.01524 91.367102 151.34051 92.082496 151.09375 92.976562 L 156.55859 92.976562 C 156.31183 92.082496 155.63906 91.367102 154.77148 91.060547 L 154.77148 79.369141 C 154.77148 78.847297 154.34802 78.425781 153.82617 78.425781 z M 193.13477 78.425781 C 192.61292 78.425781 192.18945 78.847297 192.18945 79.369141 L 192.18945 91.060547 C 191.32188 91.367102 190.64715 92.082496 190.40039 92.976562 L 195.86719 92.976562 C 195.62043 92.082496 194.9457 91.367102 194.07812 91.060547 L 194.07812 79.369141 C 194.07812 78.847297 193.65661 78.425781 193.13477 78.425781 z M 279.30664 78.425781 C 278.7848 78.425781 278.36133 78.847297 278.36133 79.369141 L 278.36133 91.0625 C 277.49493 91.369538 276.82075 92.083337 276.57422 92.976562 L 282.03906 92.976562 C 281.7923 92.082496 281.11953 91.367102 280.25195 91.060547 L 280.25195 79.369141 C 280.25195 78.847297 279.82848 78.425781 279.30664 78.425781 z M 151.09375 94.488281 C 151.34051 95.382347 152.01524 96.097741 152.88281 96.404297 L 152.88281 112.44141 L 152.69336 112.44141 L 152.69336 114.33008 L 188.41016 114.33008 L 188.41016 130.36719 C 187.54258 130.67374 186.86785 131.38914 186.62109 132.2832 L 192.08789 132.2832 C 191.84113 131.38914 191.1664 130.67374 190.29883 130.36719 L 190.29883 116.04883 C 190.36233 116.0714 190.42278 116.10106 190.48828 116.11914 L 190.48828 110.65234 C 189.59422 110.8991 188.87882 111.57383 188.57227 112.44141 L 154.77148 112.44141 L 154.77148 96.404297 C 155.63906 96.097741 156.31183 95.382347 156.55859 94.488281 L 151.09375 94.488281 z M 190.40039 94.488281 C 190.64715 95.382347 191.32188 96.097741 192.18945 96.404297 L 192.18945 110.72266 C 192.12595 110.70009 192.0655 110.67042 192 110.65234 L 192 116.11914 C 192.89407 115.87238 193.60946 115.19765 193.91602 114.33008 L 227.7168 114.33008 L 227.7168 130.36719 C 226.84922 130.67374 226.17449 131.38914 225.92773 132.2832 L 231.39453 132.2832 C 231.14777 131.38914 230.47304 130.67374 229.60547 130.36719 L 229.60547 116.04883 C 229.66897 116.0714 229.72942 116.10106 229.79492 116.11914 L 229.79492 110.65234 C 228.90086 110.8991 228.18546 111.57383 227.87891 112.44141 L 194.07812 112.44141 L 194.07812 96.404297 C 194.9457 96.097741 195.62043 95.382347 195.86719 94.488281 L 190.40039 94.488281 z M 229.70898 94.488281 C 229.95574 95.382347 230.62852 96.097741 231.49609 96.404297 L 231.49609 110.72266 C 231.43259 110.70009 231.37214 110.67042 231.30664 110.65234 L 231.30664 116.11914 C 232.20071 115.87238 232.91805 115.19765 233.22461 114.33008 L 280.44141 114.33008 L 280.44141 112.44141 L 280.25195 112.44141 L 280.25195 96.404297 C 281.11953 96.097741 281.7923 95.382347 282.03906 94.488281 L 276.57422 94.488281 C 276.82075 95.381507 277.49493 96.095306 278.36133 96.402344 L 278.36133 112.44141 L 233.38672 112.44141 L 233.38672 96.402344 C 234.25311 96.095306 234.9273 95.381507 235.17383 94.488281 L 229.70898 94.488281 z M 186.62109 133.79492 C 186.86785 134.68898 187.54259 135.40438 188.41016 135.71094 L 188.41016 147.40234 C 188.41016 147.92419 188.83167 148.3457 189.35352 148.3457 C 189.87536 148.3457 190.29883 147.92419 190.29883 147.40234 L 190.29883 135.71094 C 191.16639 135.40438 191.84113 134.68898 192.08789 133.79492 L 186.62109 133.79492 z M 225.92773 133.79492 C 226.17449 134.68898 226.84923 135.40438 227.7168 135.71094 L 227.7168 147.40234 C 227.7168 147.92419 228.14027 148.3457 228.66211 148.3457 C 229.18395 148.3457 229.60547 147.92419 229.60547 147.40234 L 229.60547 135.71094 C 230.47303 135.40438 231.14777 134.68898 231.39453 133.79492 L 225.92773 133.79492 z "
+     transform="scale(264.58333)"
+     id="path130" />
+</svg>
